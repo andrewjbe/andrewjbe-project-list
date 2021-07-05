@@ -24,8 +24,8 @@ A simple interactive dashboard for displaying maps related to NCAAM Basketball, 
 
 ### Oklahoma County Jail Dashboard (on behalf of the Oklahoma County CJAC):
 
-**Interactive Dashboard** (work in progress; it takes forever to load right now): [https://openjusticeok.shinyapps.io/cjac-dashboard-2/]
+**Interactive Dashboard** (work in progress; it takes forever to load right now): [https://openjusticeok.shinyapps.io/cjac-dashboard-2/](https://openjusticeok.shinyapps.io/cjac-dashboard-2/)
 
 ### Rural Court Fines & Fees Research
 
-**OK Policy Blog Post:** [https://okpolicy.org/rural-oklahomans-frequently-carry-larger-burden-for-court-fines-fees/]
+**OK Policy Blog Post:** [https://okpolicy.org/rural-oklahomans-frequently-carry-larger-burden-for-court-fines-fees/](https://okpolicy.org/rural-oklahomans-frequently-carry-larger-burden-for-court-fines-fees/)
