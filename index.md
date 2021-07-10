@@ -20,6 +20,14 @@ A simple interactive dashboard for displaying maps related to NCAAM Basketball, 
 
 **Github Repo:** [https://github.com/andrewjbe/sports-maps-dashboard](https://github.com/andrewjbe/sports-maps-dashboard)
 
+### NCAAM Football Map
+
+Currently displays a "power projection map" for NCAA Football, current to the last AP Poll of the season.
+
+**Link to Interactive Map:** [https://werdna63.shinyapps.io/ncaa-football-dashboard/](https://werdna63.shinyapps.io/ncaa-football-dashboard/)
+
+**Github Repo:** [https://github.com/andrewjbe/sports-maps-dashboard](https://github.com/andrewjbe/sports-maps-dashboard)
+
 ## Work Projects | [OKPI Criminal Justice / Data Analyst](https://okpolicy.org/)
 
 ### Oklahoma County Jail Dashboard (on behalf of the Oklahoma County CJAC):
