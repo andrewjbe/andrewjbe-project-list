@@ -32,7 +32,7 @@ Currently displays a "power projection map" for NCAA Football, current to the la
 
 ### Oklahoma County Jail Dashboard (on behalf of the Oklahoma County CJAC):
 
-**Interactive Dashboard** (work in progress; it takes forever to load right now): [https://openjusticeok.shinyapps.io/cjac-dashboard-2/](https://openjusticeok.shinyapps.io/cjac-dashboard-2/)
+**Interactive Dashboard** (work in progress): [https://openjusticeok.shinyapps.io/cjac-dashboard-2/](https://openjusticeok.shinyapps.io/cjac-dashboard-2/)
 
 ### Rural Court Fines & Fees Research
 
